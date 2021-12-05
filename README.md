@@ -5,6 +5,9 @@
 * Reducing Data flow and helping to optimize a machine learning model. 
 * Integrating the model into the company's phone application. 
 
+## Problem presentation
+
+![alt text](https://github.com/Monk-AI---Data-quality-assessment/Yolo_Vehicle_Parts_Detection/00e3f8e41c.parts.jpeg)
 ## Code and Resources Used 
 **Python Version:** 3.9 
 **ForRequirements:**  ```pip install -r requirements.txt```   
