@@ -7,7 +7,8 @@
 
 ## Problem presentation
 <img src = 'https://github.com/aymanemoataz/Monk-AI---Data-quality-assessment/blob/master/Yolo_Vehicle_Parts_Detection/00e3f8e41c.parts.jpeg' width="324" height="324">
-![alt text](https://github.com/aymanemoataz/Monk-AI---Data-quality-assessment/blob/master/Yolo_Vehicle_Parts_Detection/00e3f8e41c.parts.jpeg = 100)
+This is an example of the company's model run on an image of low quality. We can see that the model segments the pixels in the image to recognize car parts in order to help assign the image to a particular damage class.
+
 ## Code and Resources Used 
 **Python Version:** 3.9 
 **ForRequirements:**  ```pip install -r requirements.txt```   
