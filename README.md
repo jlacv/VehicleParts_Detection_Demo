@@ -7,7 +7,7 @@
 
 ## Problem presentation
 
-![alt text](https://github.com/Monk-AI---Data-quality-assessment/Yolo_Vehicle_Parts_Detection/00e3f8e41c.parts.jpeg)
+![alt text](https://github.com/aymanemoataz/Monk-AI---Data-quality-assessment/blob/master/Yolo_Vehicle_Parts_Detection/00e3f8e41c.parts.jpeg)
 ## Code and Resources Used 
 **Python Version:** 3.9 
 **ForRequirements:**  ```pip install -r requirements.txt```   
