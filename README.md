@@ -34,3 +34,5 @@ we need to supervise yolo's learning with bounding box annotations. We draw a bo
 * We used CVAT for computer annotation in order to prepare our initial training data(webscraped data) :  https://blog.roboflow.com/cvat/
 
 <img src = 'https://github.com/aymanemoataz/Monk-AI---Data-quality-assessment/blob/master/readme_images/datapreprocessing.png' width="524" height="324">
+
+## Initial Results :
