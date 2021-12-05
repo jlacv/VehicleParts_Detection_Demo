@@ -22,6 +22,10 @@ This is an example of the company's model run on an image of low quality. We can
 
 Tweaked a web scraper to collect 500 car images, scraping a 100 images for each keyword. I then removed some images manually and used 100 images for training and 10 images to test the yolo model at first.
 
+We narrowed our task to only identify 5 classes.
+The number of objects in each class is evenly distributed, knowing that we are working with car images.
+We chose objects that are distinguishable in different types of car types.
+
 ### Company provided data : optimizing the initial model
 
 ## Data preprocessing
