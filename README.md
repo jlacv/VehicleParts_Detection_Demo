@@ -7,7 +7,7 @@
 
 ## Problem presentation
 <img src = 'https://github.com/aymanemoataz/Monk-AI---Data-quality-assessment/blob/master/Yolo_Vehicle_Parts_Detection/00e3f8e41c.parts.jpeg' width="324" height="324">
-This is an example of the company's model run on an image of low quality. We can see that the model segments the pixels in the image to recognize car parts in order to help assign the image to a particular damage class.
+This is an example of the company's model run on an image of low quality. We can see that the model segments the pixels in the image to recognize car parts in order to help assign the image to a particular damage class. We can see that assessing image quality is crucial to optimize the model. Integrating a Machine learning model to assess image quality in different parts of the image is essential. You can check the report and the presentation folders for details.
 
 ## Code and Resources Used 
 **Python Version:** 3.9 
