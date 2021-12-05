@@ -6,7 +6,7 @@
 * Integrating the model into the company's phone application. 
 
 ## Problem presentation
-
+<img src = 'https://github.com/aymanemoataz/Monk-AI---Data-quality-assessment/blob/master/Yolo_Vehicle_Parts_Detection/00e3f8e41c.parts.jpeg' width="324" height="324">
 ![alt text](https://github.com/aymanemoataz/Monk-AI---Data-quality-assessment/blob/master/Yolo_Vehicle_Parts_Detection/00e3f8e41c.parts.jpeg = 100)
 ## Code and Resources Used 
 **Python Version:** 3.9 
