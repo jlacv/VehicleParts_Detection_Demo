@@ -1,7 +1,7 @@
 # Monk-AI---Data-quality-assessment
 # Assessing Image quality for a vehicle damage detection algorithm: Project Overview 
-* Created a tool to assess image data quality for a specefic machine learning algorithm.
-* Creating a faster algorithm using machine learning techniques to eliminate non pertinent data before passing it to the vehicle damage detection model.
+* Creating a tool to assess image data quality for a specefic machine learning algorithm.
+* Implementing a faster algorithm using machine learning techniques to eliminate non pertinent data before passing it to the vehicle damage detection model.
 * Reducing Data flow and helping to optimize a machine learning model. 
 * Integrating the model into the company's phone application. 
 
