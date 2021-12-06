@@ -25,7 +25,7 @@ Tweaked a web scraper to collect 500 car images, scraping a 100 images for each 
 
 * We narrowed our task to only identify 5 classes.
 * The number of objects in each class is evenly distributed, knowing that we are working with car images.
-* We chose objects that are distinguishable in different types of car types.
+* We chose objects that are distinguishable in different types of cars.
 
 ### Company provided data : optimizing the initial model
 
