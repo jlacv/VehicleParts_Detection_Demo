@@ -36,6 +36,6 @@ we need to supervise yolo's learning with bounding box annotations. We draw a bo
 <img src = 'https://github.com/aymanemoataz/Monk-AI---Data-quality-assessment/blob/master/readme_images/datapreprocessing.png' width="524" height="324">
 
 ## Initial Results :
-
+https://drive.google.com/drive/folders/1ZWUDJJYCMmj0SdNfSgjKnaJIhoI9xRBn?usp=sharing
 ## Validating the initial results :
 We will test our quality score on zoomed car images, and car videos with angle changes to see how the quality score changes. This could help us reduce some frames from videos and understand which part is visible in a given image
