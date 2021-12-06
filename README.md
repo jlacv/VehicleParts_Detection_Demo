@@ -31,7 +31,7 @@ Tweaked a web scraper to collect 500 car images, scraping a 100 images for each 
 
 ## Data preprocessing
 we need to supervise yolo's learning with bounding box annotations. We draw a box around each object that we want the detector to see and label each box with the object class that we would like the detector to predict.
-* We used CVAT for computer annotation in order to prepare our initial training data(webscraped data) :  https://blog.roboflow.com/cvat/
+* We used CVAT for computer annotation in order to prepare our initial training data(webscraped data), data can be downloaded from this link : https://app.roboflow.com/ds/2minm3ukA8?key=UAcbAfF26m
 
 <img src = 'https://github.com/aymanemoataz/Monk-AI---Data-quality-assessment/blob/master/readme_images/datapreprocessing.png' width="524" height="324">
 
