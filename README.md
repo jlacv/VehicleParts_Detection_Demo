@@ -10,12 +10,11 @@
 This is an example of the company's model run on an image of low quality. We can see that the model segments the pixels in the image to recognize car parts in order to help assign the image to a particular damage class. We can see that assessing image quality is crucial to optimize the model. Integrating a Machine learning model to assess image quality in different parts of the image is essential. You can check the report and the presentation folders for details. Our approach and data will be brefiely presented below.
 
 ## Code and Resources Used 
-**Pytorch
+**Pytorch:**
 **Python Version:** 3.9 
 **ForRequirements:**  ```pip install -r requirements.txt```   
 
 
 
-## Approach
 
 
