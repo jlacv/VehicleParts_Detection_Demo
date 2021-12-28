@@ -11,7 +11,7 @@ This is an example of the company's model run on an image of low quality. We can
 
 ## Code and Resources Used 
 
-**Pytorch:**
+**Pytorch**
 
 **Python Version:** 3.9 
 
