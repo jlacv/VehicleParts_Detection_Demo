@@ -19,4 +19,3 @@ This is an example of the company's model run on an image of low quality. We can
 
 ## Data ( Webscraping | company provided data)
 
-### Webscraping data : initial model
