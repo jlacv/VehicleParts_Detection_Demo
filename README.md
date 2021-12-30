@@ -18,7 +18,7 @@ We are applying yolov5s on a per-frame basis in real-time! Our goal is to explor
 
 **Python Version:** 3.9 
 
-**ForRequirements:**  ```pip install -r requirements.txt```   
+**For requirements:**  ```pip install -r requirements.txt```   
 
 
 
