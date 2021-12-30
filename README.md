@@ -2,7 +2,7 @@
 # Assessing frame quality for a vehicle damage detection algorithm: Project Overview 
 * Creating a tool to assess video frame quality for a specefic machine learning algorithm.
 * Runing fast deep learning models on videos to extract a confidence metric for selected vehicle parts.
-* Reducing Data flow at the input of the segmentation algorithm. 
+* Using object detection as a tool to Reduce data flow at the input of the semantic segmentation algorithm. 
 * Deploying the model.
 
 ## Running state of the art object detection models at 76 FPS :
