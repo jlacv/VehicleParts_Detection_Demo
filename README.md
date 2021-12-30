@@ -5,7 +5,7 @@
 * Reducing Data flow at the input of the segmentation algorithm. 
 * Deploying the model.
 
-![Game Process](https://github.com/aymanemoataz/Monk-AI---Data-quality-assessment/blob/master/Images/git1.gif)
+![Game Process](https://github.com/aymanemoataz/Monk-AI---Data-quality-assessment/blob/master/Images/git3.gif)
 
 
 
