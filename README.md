@@ -5,7 +5,7 @@
 * Reducing Data flow at the input of the segmentation algorithm. 
 * Deploying the model.
 
-## 76 FPS with yolov5s
+## Running state of the art object detection models at 76 FPS :
 We're trying to stabilize the process of running yolov5s on videos in real time !
 
 ![Game Process](https://github.com/aymanemoataz/Monk-AI---Data-quality-assessment/blob/master/Images/git3.gif)
