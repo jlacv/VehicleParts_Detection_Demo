@@ -1,4 +1,4 @@
-# Monk-AI---Data-quality-assessment
+# Frame quality assessment
 # Assessing frame quality for a vehicle damage detection algorithm: Project Overview 
 * Creating a tool to assess video frame quality for a specefic machine learning algorithm.
 * Runing fast deep learning models on videos to extract a confidence metric for selected vehicle parts.
