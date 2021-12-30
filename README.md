@@ -5,6 +5,9 @@
 * Reducing Data flow at the input of the segmentation algorithm. 
 * Deploying the model. 
 
+caption1 | caption2
+:-: | :-:
+<video src='git1.mp4' width=180/> | <video src='git2.2.mp4' width=180/>
 
 
 ## Code and Resources Used 
