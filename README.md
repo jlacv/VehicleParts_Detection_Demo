@@ -6,7 +6,7 @@
 * Deploying the model.
 
 ## Running state of the art object detection models at 76 FPS :
-We're trying to stabilize the process of running yolov5s on videos in real time !
+We are applying yolov5s on a per-frame basis and runing it on real time! Our goal is to explore techniques using temporal loss for increased video stability before reducing frames based on the confidence levels.
 
 ![Game Process](https://github.com/aymanemoataz/Monk-AI---Data-quality-assessment/blob/master/Images/git3.gif)
 
