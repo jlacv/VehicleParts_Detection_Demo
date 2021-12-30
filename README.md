@@ -7,6 +7,7 @@
 
 ## 76 FPS with yolov5s
 We're trying to stabilize the process of running yolov5s on videos in real time !
+
 ![Game Process](https://github.com/aymanemoataz/Monk-AI---Data-quality-assessment/blob/master/Images/git3.gif)
 
 
