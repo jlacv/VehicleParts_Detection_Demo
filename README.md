@@ -1,7 +1,7 @@
 # Frame quality assessment
 # Assessing frame quality for a vehicle damage detection algorithm: Project overview 
 * Creating a tool to assess video frame quality for a specific machine learning algorithm.
-* Runing fast deep learning models on videos to extract a confidence metric for each selected vehicle part using non-max suppression.
+* Running fast deep learning models on videos to extract a confidence metric for each selected vehicle part using non-max suppression.
 * Applying this tool to reduce data flow at the input of the semantic segmentation algorithm. 
 * Deploying the model.
 
