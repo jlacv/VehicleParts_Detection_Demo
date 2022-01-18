@@ -5,14 +5,14 @@
 * Applying this tool to reduce data flow at the input of the semantic segmentation algorithm. 
 * Deploying the model.
 
-## Running state of the art object detection models at 76 FPS :
+## Running state of the art object detection models at 110 FPS :
 We are applying yolov5s on a per-frame basis in real-time! Our goal is to explore ways to stabilize the video results before reducing frames based on the confidence levels.
 
 
 <p align="center">
-<img src="https://github.com/aymanemoataz/Monk-AI---Data-quality-assessment/blob/master/readme_images/gif2.gif" width="250px" height="230px">
+<img src="https://github.com/aymanemoataz/Monk-AI---Data-quality-assessment/blob/master/readme_images/gif2.gif" width="550px" height="530px">
 
-<img src="https://github.com/aymanemoataz/Monk-AI---Data-quality-assessment/blob/master/readme_images/carside_day1.gif" width="250px" height="230px">
+<img src="https://github.com/aymanemoataz/Monk-AI---Data-quality-assessment/blob/master/readme_images/carside_day1.gif" width="550px" height="530px">
 
 </p>
 
