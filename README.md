@@ -45,6 +45,6 @@ we also work with stable cars. We are constructing a database of videos where we
 
 </p>
 
-
+grill_radiator is the lowest represented class in our dataset, it also varies a lot according to the car type
 
 
