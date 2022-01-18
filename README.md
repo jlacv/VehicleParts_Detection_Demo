@@ -19,7 +19,7 @@ We are applying yolov5s on a per-frame basis in real-time! Our goal is to explor
 
 ### Dataset
 
-The dataset contains 12 000 labeled vehicle parts with 60+ classes (We narrowed the classes to 9 to perform frame reduction)
+The dataset contains 12 000 labeled vehicle parts with 60+ classes (We narrowed the classes to 9 classes in the frame reduction app)
 <p align="center">
 <img src="https://github.com/aymanemoataz/MonkxMines_Demo/blob/master/Results_Model3/labels.jpg" width="350px" height="530px">
 <img src="https://github.com/aymanemoataz/MonkxMines_Demo/blob/master/Results_Model3/labels_correlogram.jpg" width="350px" height="530px">
