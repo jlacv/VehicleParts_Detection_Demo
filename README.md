@@ -10,7 +10,7 @@ We are applying yolov5s on a per-frame basis in real-time! Our goal is to explor
 
 
 <p align="center">
-<img src="https://github.com/aymanemoataz/Monk-AI---Data-quality-assessment/blob/master/readme_images/gif2.gif" width="450px" height="430px">
+<img src="https://github.com/aymanemoataz/Monk-AI---Data-quality-assessment/blob/master/readme_images/gif2.gif" width="350px" height="330px">
 
 
 </p>
@@ -19,7 +19,7 @@ We are applying yolov5s on a per-frame basis in real-time! Our goal is to explor
 
 ### Dataset
 <p align="center">
-<img src="https://github.com/aymanemoataz/MonkxMines_Demo/blob/master/Results_Model3/labels.png" width="550px" height="530px">
+<img src="https://github.com/aymanemoataz/MonkxMines_Demo/blob/master/Results_Model3/labels.jpg" width="450px" height="530px">
 </p>
 ### Results
 
