@@ -10,9 +10,9 @@ We are applying yolov5s on a per-frame basis in real-time! Our goal is to explor
 
 
 <p align="center">
-<img src="https://github.com/aymanemoataz/Monk-AI---Data-quality-assessment/blob/master/readme_images/gif2.gif" width="350px" height="430px">
+<img src="https://github.com/aymanemoataz/Monk-AI---Data-quality-assessment/blob/master/readme_images/gif2.gif" width="350px" height="330px">
 
-<img src="https://github.com/aymanemoataz/Monk-AI---Data-quality-assessment/blob/master/readme_images/carside_day1.gif" width="350px" height="430px">
+<img src="https://github.com/aymanemoataz/Monk-AI---Data-quality-assessment/blob/master/readme_images/carside_day1.gif" width="350px" height="330px">
 
 </p>
 
