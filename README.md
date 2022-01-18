@@ -18,18 +18,22 @@ We are applying yolov5s on a per-frame basis in real-time! Our goal is to explor
 ## Model 3 : yolov5s 
 
 ### Dataset
+
+The dataset contains 12 000 labeled vehicle parts with 60+ classes (We narrowed the classes to 9 to perform frame reduction)
 <p align="center">
 <img src="https://github.com/aymanemoataz/MonkxMines_Demo/blob/master/Results_Model3/labels.jpg" width="350px" height="530px">
 <img src="https://github.com/aymanemoataz/MonkxMines_Demo/blob/master/Results_Model3/labels_correlogram.jpg" width="350px" height="530px">
 
 </p>
+
 ### Results
 
 <p align="center">
 <img src="https://github.com/aymanemoataz/MonkxMines_Demo/blob/master/Results_Model3/results.png" width="550px" height="330px">
 </p>
 
-#### Confusion Matrix ( We narrowed down the initial classes (60+ vehicle parts to 9 classes)
+#### Confusion Matrix 
+
 We saw that that the model confused bumper_back and bumper_front in videos with moving cars, given that position detectors can locate the back of the car we will combine the two classes in the next model.
 we also work with stable cars. We are constructing a database of videos where we move around the car(suitable to the app).
 
