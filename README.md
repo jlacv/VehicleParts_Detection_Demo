@@ -37,7 +37,7 @@ The dataset contains 12 000 labeled vehicle images. With segmentation masks and 
 
 #### Confusion Matrix 
 
-We saw that that the model confused bumper_back and bumper_front in videos with moving cars, given that position detectors can locate the back of the car we will combine the two classes in the next model.
+We saw that  the model confused bumper_back and bumper_front in videos with moving cars, given that position detectors can locate the back of the car we will combine the two classes in the next model.
 we also work with stable cars. We are constructing a database of videos where we move around the car(suitable to the app).
 
 <p align="center">
