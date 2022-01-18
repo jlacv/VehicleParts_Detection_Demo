@@ -30,7 +30,7 @@ We saw that that the model confused bumper_back and bumper_front in videos with 
 we also work with stable cars. We are constructing a database of videos where we move around the car(suitable to the app).
 
 <p align="center">
-<img src="https://github.com/aymanemoataz/MonkxMines_Demo/blob/master/Results_Model3/confusion_matrix.png" width="550px" height="330px">
+<img src="https://github.com/aymanemoataz/MonkxMines_Demo/blob/master/Results_Model3/confusion_matrix.png" width="550px" height="430px">
 
 
 </p>
