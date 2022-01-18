@@ -22,7 +22,7 @@ Look at some video results: https://drive.google.com/drive/folders/1cBasP9tiLi0B
 
 ### Dataset
 
-The dataset contains 12 000 labeled vehicle parts with 60+ classes (We narrowed the classes to 9 classes in the frame reduction app)
+The dataset contains 12 000 labeled vehicle images. With segmentation masks and bounding boxes for 60+ classes (We narrowed the classes to 9 classes in the frame reduction app)
 <p align="center">
 <img src="https://github.com/aymanemoataz/MonkxMines_Demo/blob/master/Results_Model3/labels.jpg" width="350px" height="530px">
 <img src="https://github.com/aymanemoataz/MonkxMines_Demo/blob/master/Results_Model3/labels_correlogram.jpg" width="350px" height="530px">
