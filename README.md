@@ -7,6 +7,7 @@
 
 ## Running state of the art object detection models at 110 FPS :
 We are applying yolov5s on a per-frame basis in real-time! Our goal is to explore ways to stabilize the video results before reducing frames based on the confidence levels.
+
 Look at some video results: https://drive.google.com/drive/folders/1cBasP9tiLi0BmnAk-G3YQ6zNfy1alLse
 
 <p align="center">
