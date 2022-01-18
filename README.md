@@ -7,11 +7,11 @@
 
 ## Running state of the art object detection models at 110 FPS :
 We are applying yolov5s on a per-frame basis in real-time! Our goal is to explore ways to stabilize the video results before reducing frames based on the confidence levels.
-
+Look at some video results: https://drive.google.com/drive/folders/1cBasP9tiLi0BmnAk-G3YQ6zNfy1alLse
 
 <p align="center">
-<img src="https://github.com/aymanemoataz/Monk-AI---Data-quality-assessment/blob/master/readme_images/gif2.gif" width="250px" height="230px">
-  <img src="https://github.com/aymanemoataz/MonkxMines_Demo/blob/master/readme_images/carside_day1.gif" width="250px" height="230px">
+<img src="https://github.com/aymanemoataz/Monk-AI---Data-quality-assessment/blob/master/readme_images/gif2.gif" width="220px" height="210px">
+<img src="https://github.com/aymanemoataz/MonkxMines_Demo/blob/master/readme_images/carside_day1.gif" width="220px" height="210px">
 
 
 
