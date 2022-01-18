@@ -19,7 +19,9 @@ We are applying yolov5s on a per-frame basis in real-time! Our goal is to explor
 
 ### Dataset
 <p align="center">
-<img src="https://github.com/aymanemoataz/MonkxMines_Demo/blob/master/Results_Model3/labels.jpg" width="450px" height="530px">
+<img src="https://github.com/aymanemoataz/MonkxMines_Demo/blob/master/Results_Model3/labels.jpg" width="350px" height="530px">
+<img src="https://github.com/aymanemoataz/MonkxMines_Demo/blob/master/Results_Model3/labels_correlogram.jpg" width="350px" height="530px">
+
 </p>
 ### Results
 
